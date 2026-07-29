@@ -8,11 +8,11 @@ This web application uses a fine-tuned YOLO object detection model to identify a
 Users can upload an MRI scan in JPG, JPEG, or PNG format, click a button, and view the visual detection results alongside a summary of the identified regions.
 How to Use
 
-    Open the application link provided above or run it locally.
+    1. Open the application link provided above or run it locally.
 
-    Upload a brain MRI scan from the sidebar.
+    2. Upload a brain MRI scan from the sidebar.
 
-    Click Predict Tumor to view the bounding box detection on the MRI image.
+    3. Click Predict Tumor to view the bounding box detection on the MRI image.
 
 Built With
 
