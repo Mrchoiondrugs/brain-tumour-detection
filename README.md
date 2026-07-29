@@ -1,4 +1,4 @@
-B# Brain Tumor Detection Web App
+Brain Tumor Detection Web App
 
 **Live Demo:** [Click here to view the deployed app](https://brain-tumour-detection-npnbxzfgxzjjjquwlvvrer.streamlit.app/)
 
